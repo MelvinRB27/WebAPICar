@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICar", "WebAPICar\WebAPICar.csproj", "{D202ADDF-D3B4-4AA1-B515-A836E594F739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D202ADDF-D3B4-4AA1-B515-A836E594F739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D202ADDF-D3B4-4AA1-B515-A836E594F739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D202ADDF-D3B4-4AA1-B515-A836E594F739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D202ADDF-D3B4-4AA1-B515-A836E594F739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F82C09D-51E7-44D1-92A6-89A573C5F75A}
+	EndGlobalSection
+EndGlobal
